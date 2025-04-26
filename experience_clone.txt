@@ -1,1 +1,4 @@
 rush b  
+rush a
+go mid 
+plant the bomb
